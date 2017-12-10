@@ -3,7 +3,7 @@
  *
  * @author Andrey Ievlev
  * @version Dec 11, 2017
- * @Link
+ * @link https://github.com/OLskrain/Lesson6Test.git.
  */
 public class Lesson6Test{
     public static void main(String[] args){
